@@ -1,4 +1,4 @@
-# q_mi_agenda
+# QMiAgenda
 
 A new Flutter project.
 
